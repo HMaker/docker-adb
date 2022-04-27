@@ -23,7 +23,7 @@ then reload bashrc with `source ~/.bashrc`.
 
 Build the Docker image with:
 ```bash
-git clone
+git clone https://github.com/HMaker/docker-adb.git
 cd docker-adb
 docker build -t adbserver .
 ```
